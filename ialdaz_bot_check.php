@@ -3,7 +3,7 @@
 //all rights reserved iAldazActivator
 //bot telegram
 // note => to make the bot pull, you must put this link => https://api.telegram.org/bot$youtoken/setWebhook?url=https://you_domain.com/check/bot/ialdaz_bot_check.php
-$token = 'youtoken_bot';
+$token = '6823356217:AAH6rZvzh2b-Bj-QNSYmUyej1sa2z-bjNAc';
 $website = 'https://api.telegram.org/bot'.$token;
 
 $input = file_get_contents('php://input');
